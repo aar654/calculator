@@ -1,0 +1,1 @@
+This project is made through the Odin website. This is a simple calculator that will take input and give an output. Additional functionality to come! 
